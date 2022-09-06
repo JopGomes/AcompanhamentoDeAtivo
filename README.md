@@ -1,5 +1,5 @@
 # Acompanhamento De Ativo
-Aplicação desenvolvida em C# para acompanhar ativos da B3 e enviar controles por email
+### Aplicação desenvolvida em C# para acompanhar ativos da B3 e enviar controles por email
 
 
 O objetivo do sistema é avisar, via e-mail, caso a cotação de um ativo da B3 caia mais do que certo nível, ou suba acima de outro.
@@ -20,9 +20,9 @@ Ele deve ler de um arquivo de configuração com:
 
 O e-mail de destino dos alertas
 As configurações de acesso ao servidor de SMTP que irá enviar o e-mail
-A escolha da API de cotação é livre.
+A escolha da API de cotação é livre ( twelveData).
 
-O programa deve ficará continuamente monitorando a cotação do ativo enquanto estiver rodando.
+O programa deve ficar continuamente monitorando a cotação do ativo enquanto estiver rodando.
 
 
 
