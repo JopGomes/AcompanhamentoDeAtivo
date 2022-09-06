@@ -7,7 +7,7 @@ namespace stock_quote_alert
         {
             if (args.Length != 3)
             {
-                Console.WriteLine("Inicialize o executavel da seguinte maneira: \n stock-quote-alert.exe PETR4 22.67 22.59 ");
+                Console.WriteLine("Inicialize o executavel da seguinte maneira: \n stock-quote-alert.exe PETR4 22.67 22.59\n onde PETR4 é o ativo\n 22.67 é o valor maximo \n 22.59 é o valor minimo ");
             }
             double max = double.Parse(args[1], System.Globalization.CultureInfo.InvariantCulture);
             double min = double.Parse(args[2], System.Globalization.CultureInfo.InvariantCulture);

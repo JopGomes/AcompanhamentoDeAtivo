@@ -29,7 +29,7 @@ namespace stock_quote_alert {
         int timeToRequest;
         String body;
         String apikey;
-        public QuoteAlert(double max, double min, String asset, int timeToRequest,int timeToSendEmail ,String hostEmail = "joseph25vieira@gmail.com", String hostPassword = "vrxcekhnamqcjxun",String apikey= "9cbb0ac6cb604e5c96e492275f5a878b" )
+        public QuoteAlert(double max, double min, String asset, int timeToRequest,int timeToSendEmail ,String hostEmail = "joseph25vieira@gmail.com", String hostPassword = "password",String apikey= "apikey" )
         {
             
             this.max = max;
@@ -211,6 +211,7 @@ namespace stock_quote_alert {
             if (ts.TotalSeconds > quoteAlert.getTimeToSendEmail() || quoteAlert.getHasChange())
             {
                 Console.WriteLine("A cotação ainda está abaixo do valor maximo, e superior ao valor minimo");
+                quoteAlert.setLastEmail(timeNow);
             }
         }
         public void seeQuote()
