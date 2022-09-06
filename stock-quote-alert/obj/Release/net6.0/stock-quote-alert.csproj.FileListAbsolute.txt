@@ -1,0 +1,15 @@
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\bin\Release\net6.0\stock-quote-alert.exe
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\bin\Release\net6.0\stock-quote-alert.deps.json
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\bin\Release\net6.0\stock-quote-alert.runtimeconfig.json
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\bin\Release\net6.0\stock-quote-alert.dll
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\bin\Release\net6.0\stock-quote-alert.pdb
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.csproj.AssemblyReference.cache
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.AssemblyInfoInputs.cache
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.AssemblyInfo.cs
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.dll
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\refint\stock-quote-alert.dll
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.pdb
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\stock-quote-alert.genruntimeconfig.cache
+C:\Users\Joseph\Documents\ESTUDOS\Estagio\Trabalho\stock-quote-alert\stock-quote-alert\obj\Release\net6.0\ref\stock-quote-alert.dll

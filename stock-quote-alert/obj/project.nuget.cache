@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xF9zTDfmjoMjVr9BeHNoXvRg0SJhdZ0oWSvDPGXcnfkR33TUPp+WzGiZP9h1I/QVri6k6xumujQ3ij0GfngtBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joseph\\Documents\\ESTUDOS\\Estagio\\Trabalho\\stock-quote-alert\\stock-quote-alert\\stock-quote-alert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joseph\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joseph\\.nuget\\packages\\twelvedatasharp\\1.1.0\\twelvedatasharp.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
